@@ -1,21 +1,19 @@
-# برنامج استلام وتسليم داخلي للعتاد والأجهزة
-**Internal Equipment Handover & Custody System** · التصنيف: منصة تجارية
+# Internal Equipment Handover & Custody System · Classification: Commercial Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
-> Project overview document — source code is not included.
+> Project overview document (specifications and technologies) — source code is not included.
 
-## نبذة عن المشروع
-برنامج يسجل من استلم ومن سلّم ومتى وبأي حالة، مع سجل تدقيق كامل.
+## Project summary
+The application records who received and who handed over, when, and in what condition, with a full audit log.
 
-## أبرز النقاط
-- سجلات استلام وتسليم مع فحص الحالة
-- أصول بأكواد QR وسجل عهدة
-- سجل تدقيق كامل وتقارير
+## Highlights
+- Handover and receipt records with condition inspection
+- Assets with QR codes and custody records
+- Full audit log and reports
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, admin panel, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies used
 ASP.NET Core, SQL Server, React, QR Codes, Serilog, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
